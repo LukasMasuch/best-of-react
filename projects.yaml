@@ -1672,6 +1672,10 @@ projects:
     github_id: surveyjs/survey-library
     category: input-components
     npm_id: survey-knockout
+  - name: react-feedback-surveys
+    github_id: feedback-tools-platform/react-feedback-surveys
+    category: input-components
+    npm_id: react-feedback-surveys
   - name: react-popper
     github_id: floating-ui/react-popper
     category: layout
