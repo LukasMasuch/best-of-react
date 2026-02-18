@@ -1344,6 +1344,10 @@ projects:
     github_id: Raathigesh/majestic
     category: testing
     npm_id: majestic
+  - name: Sherlo
+    github_id: sherlo-io/sherlo
+    category: testing
+    npm_id: sherlo
   - name: mobx
     github_id: mobxjs/mobx
     category: state-management
