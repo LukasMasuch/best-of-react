@@ -3250,6 +3250,14 @@ _Admin frontend frameworks, dashboards and templates._
 	git clone https://github.com/PlainAdmin/plain-free-bootstrap-admin-template
 	```
 </details>
+
+<details><summary><b><a href="https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template">free-shadcn-admin-dashboard-template-built-with-react-and-tailwind-css</a></b> (⭐ 49 · 💤) – Free Shadcn Admin Dashboard Template built with React and Tailwind CSS <code><a href="https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template/blob/main/LICENSE.txt">MIT</a></code></summary>
+
+- [GitHub](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) (⭐ 49 · 🍴 2 · ⏱️ 03.01.2026):
+
+  git clone https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template
+```
+
 <details><summary>Show 2 hidden projects...</summary>
 
 - <b><a href="https://github.com/dunky11/react-saas-template">React SaaS Template</a></b> (🥉16 ·  ⭐ 1.9K · 💀) - Template for building an SaaS / admin website using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
