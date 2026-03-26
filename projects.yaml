@@ -280,6 +280,11 @@ projects:
     github_id: reaviz/reaviz
     npm_id: reaviz
     category: data-viz
+  - name: MetricUI
+    github_id: mpmcgowen/metricui
+    npm_id: metricui
+    category: data-viz
+    demo_url: https://metricui.com/demos
   - name: nivo
     github_id: plouc/nivo
     npm_id: "@nivo/core"
