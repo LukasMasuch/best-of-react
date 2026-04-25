@@ -858,6 +858,11 @@ projects:
   - name: plain-free-bootstrap-admin-template
     github_id: PlainAdmin/plain-free-bootstrap-admin-template
     category: admin-dashboards
+  - name: kubestellar-console
+    github_id: kubestellar/console
+    category: admin-dashboards
+    homepage: https://console.kubestellar.io
+    description: AI-powered multi-cluster Kubernetes dashboard with real-time observability
   - name: cube.js
     github_id: cube-js/cube.js
     category: cms-frameworks
