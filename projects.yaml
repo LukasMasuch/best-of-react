@@ -632,6 +632,10 @@ projects:
     github_id: streamich/react-use
     npm_id: react-use
     category: others
+  - name: ReactUse
+    github_id: childrentime/reactuse
+    npm_id: "@reactuses/core"
+    category: others
   - name: react-hook-form
     github_id: react-hook-form/react-hook-form
     npm_id: react-hook-form
