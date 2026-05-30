@@ -1874,3 +1874,9 @@ projects:
   - name: React Starter Kit
     github_id: kriasoft/react-starter-kit
     category: dev-tools
+
+  - name: Shiori
+    github_id: kaorii-ako/Shiori-v1
+    homepage: https://shiori-v1.vercel.app
+    category: other
+    labels: [ai, education, pwa, student, open-source]
