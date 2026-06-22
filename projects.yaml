@@ -858,6 +858,11 @@ projects:
   - name: plain-free-bootstrap-admin-template
     github_id: PlainAdmin/plain-free-bootstrap-admin-template
     category: admin-dashboards
+  - name: UnfoldCMS
+    github_id: hpakdaman/unfoldcms
+    category: admin-dashboards
+    homepage: https://unfoldcms.com
+    description: Self-hosted CMS with a React 19 + shadcn/ui admin panel. Laravel 12 backend, REST API v1, HMAC webhooks, headless mode for Next.js/Astro/SvelteKit/Nuxt.
   - name: cube.js
     github_id: cube-js/cube.js
     category: cms-frameworks
