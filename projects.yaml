@@ -356,6 +356,11 @@ projects:
     github_id: storybookjs/storybook
     npm_id: "@storybook/react"
     category: dev-tools
+  - name: Compify
+    github_id: kubet/compify
+    category: dev-tools
+    demo_url: https://compify.app/
+    description: Open-source React component workflow.
   - name: Storybook Addon Material-UI
     github_id: react-theming/storybook-addon-material-ui
     npm_id: storybook-addon-material-ui
