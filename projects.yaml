@@ -85,6 +85,10 @@ projects:
     labels: ["material-ui"]
     category: admin-dashboards
     demo_url: https://flatlogic.com/templates/react-material-admin/demo
+  - name: Serenity UI
+    github_id: ayushmxxn/serenity-ui
+    category: ui-frameworks
+    demo_url: https://serenity-ui.com
   - name: React Dashboard
     github_id: flatlogic/react-dashboard
     labels: ["bootstrap"]
